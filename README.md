@@ -40,5 +40,5 @@ Minicurso Next Level Week # 2 da [Rocketseat](https://rocketseat.com.br/) para a
 }
 ```
 ```
-npm run dev or node     # Inicia o servidor
+npm run dev   # Inicia o servidor
 ```
