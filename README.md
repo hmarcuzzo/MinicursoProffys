@@ -24,7 +24,7 @@ Minicurso Next Level Week # 2 da [Rocketseat](https://rocketseat.com.br/) para a
  $ npm npm install express  # Instala as dependências do projeto
 ```
 ```
- $ npm install nodemon -D   # Auxilia na montagem de serivodor
+ $ npm install nodemon -D   # Auxilia na montagem de servidor
 ```
 ```
  $ npm install sqlite-async # Gerenciador de banco de dados
